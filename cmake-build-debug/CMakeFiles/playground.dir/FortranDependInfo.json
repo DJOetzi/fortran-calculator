@@ -1,0 +1,13 @@
+{
+	"compiler-id" : "GNU",
+	"dir-cur-bld" : "F:/f_projects/playground/cmake-build-debug",
+	"dir-cur-src" : "F:/f_projects/playground",
+	"dir-top-bld" : "F:/f_projects/playground/cmake-build-debug",
+	"dir-top-src" : "F:/f_projects/playground",
+	"include-dirs" : [],
+	"language" : "Fortran",
+	"linked-target-dirs" : [],
+	"module-dir" : "F:/f_projects/playground/cmake-build-debug",
+	"submodule-ext" : ".smod",
+	"submodule-sep" : "@"
+}

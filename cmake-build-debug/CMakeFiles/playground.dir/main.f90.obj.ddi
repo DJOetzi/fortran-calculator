@@ -1,0 +1,13 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles\\\\playground.dir\\\\main.f90.obj",
+			"provides" : [],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}
